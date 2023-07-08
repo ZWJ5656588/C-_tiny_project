@@ -1,0 +1,32 @@
+[
+{
+  "directory": "E:/Project_and_Library/C++ Project_1/3. Classroom_reservation_system/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   -g -std=gnu++17 -o CMakeFiles\\reserve_cpu_room.dir\\manager.cpp.obj -c \"E:\\Project_and_Library\\C++ Project_1\\3. Classroom_reservation_system\\code\\manager.cpp\"",
+  "file": "E:/Project_and_Library/C++ Project_1/3. Classroom_reservation_system/code/manager.cpp",
+  "output": "CMakeFiles/reserve_cpu_room.dir/manager.cpp.obj"
+},
+{
+  "directory": "E:/Project_and_Library/C++ Project_1/3. Classroom_reservation_system/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   -g -std=gnu++17 -o CMakeFiles\\reserve_cpu_room.dir\\menu.cpp.obj -c \"E:\\Project_and_Library\\C++ Project_1\\3. Classroom_reservation_system\\code\\menu.cpp\"",
+  "file": "E:/Project_and_Library/C++ Project_1/3. Classroom_reservation_system/code/menu.cpp",
+  "output": "CMakeFiles/reserve_cpu_room.dir/menu.cpp.obj"
+},
+{
+  "directory": "E:/Project_and_Library/C++ Project_1/3. Classroom_reservation_system/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   -g -std=gnu++17 -o CMakeFiles\\reserve_cpu_room.dir\\student.cpp.obj -c \"E:\\Project_and_Library\\C++ Project_1\\3. Classroom_reservation_system\\code\\student.cpp\"",
+  "file": "E:/Project_and_Library/C++ Project_1/3. Classroom_reservation_system/code/student.cpp",
+  "output": "CMakeFiles/reserve_cpu_room.dir/student.cpp.obj"
+},
+{
+  "directory": "E:/Project_and_Library/C++ Project_1/3. Classroom_reservation_system/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   -g -std=gnu++17 -o CMakeFiles\\reserve_cpu_room.dir\\teacher.cpp.obj -c \"E:\\Project_and_Library\\C++ Project_1\\3. Classroom_reservation_system\\code\\teacher.cpp\"",
+  "file": "E:/Project_and_Library/C++ Project_1/3. Classroom_reservation_system/code/teacher.cpp",
+  "output": "CMakeFiles/reserve_cpu_room.dir/teacher.cpp.obj"
+},
+{
+  "directory": "E:/Project_and_Library/C++ Project_1/3. Classroom_reservation_system/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   -g -std=gnu++17 -o CMakeFiles\\reserve_cpu_room.dir\\orderfile.cpp.obj -c \"E:\\Project_and_Library\\C++ Project_1\\3. Classroom_reservation_system\\code\\orderfile.cpp\"",
+  "file": "E:/Project_and_Library/C++ Project_1/3. Classroom_reservation_system/code/orderfile.cpp",
+  "output": "CMakeFiles/reserve_cpu_room.dir/orderfile.cpp.obj"
+}
+]
